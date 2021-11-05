@@ -35,8 +35,8 @@ export default {
     nav: [
       { text: 'Guide', link: '/', activeMatch: '^/$|^/guide/' },
       {
-        text: 'Config Reference',
-        link: '/config/basics',
+        text: '主页',
+        link: 'http://wangsir.info/',
         activeMatch: '^/config/',
       },
       {
